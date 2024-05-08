@@ -1,0 +1,5 @@
+Nell'indirizzo 004015A3
+stiamo eseguendo un’operazione di XOR tra il registro EAX e se stesso. 
+Questo ha l’effetto di impostare tutti i bit di EAX a zero.
+
+Nell'indirizzo 004015AF esegue un operazione AND logico che imposta i bit a 0.
